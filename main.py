@@ -44,7 +44,6 @@ class graph_gridworld:
 
 #TODO create functions get_neighbors_by_index(), get_neighbors_by_state()
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     gg = graph_gridworld("First-GG")
     g, map, mapinv = gg.create_lattice(N=10)

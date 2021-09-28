@@ -55,4 +55,3 @@ if __name__ == '__main__':
     print(g.get_all_neighbors(map[g.vp.state[42]]))
     n = get_neighbors(22,g,mapinv)
     print(n)
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
